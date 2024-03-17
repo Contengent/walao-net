@@ -8,6 +8,12 @@ Turns out it was really easy to make something like this. But that's probably be
 making it secure, and hard to reverse engineer. Anyways, go is fun... but I should really get to
 doing more rust programming lol.
 
+## Building
+Download the src file from github, and run the follow in that directory: <br>
+`go mod init github.com/Contengent/walao-net` <br>
+`go mod tidy` <br>
+`go mod build`
+
 ## Usage
 If you wanna play around with this, download it and build it after adding your token, guildID, and catagoryID.
 It will make a new channel under the specified catagory, named: "session-[number]" everytime it's run.
