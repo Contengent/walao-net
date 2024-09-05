@@ -27,4 +27,4 @@ and clicking "Copy Server/Channel ID" <br>
 (Note: I don't know why, but the catagory id is called "Channel ID" when you try to copy it lol)
 
 ### I DO NOT CLAIM RESPONSABILITY FOR ANY MISUE
-If you do something profoundly stupid with this repository, you should consider seeking medical attention regaurding your mental health. This is no where near good or secure enough to be part of a real botnet, and it never was designed to be. This is a proof of concept using a discord bot, inside a server, as a C2 server. TL;DR: If you wanna commit federal crimes, and you use this repository, and you inevitably get caught: Don't blame me.
+If you do something profoundly stupid with this repository, you should consider seeking medical attention regaurding your mental health. This is no where near good or secure enough to be part of a real botnet, and it never was designed to be. This is a proof of concept using a discord bot, inside a server, as a C2 server. TL;DR: If you wanna commit federal crimes, and you use this repository, and you inevitably get caught: You can't blame me.
